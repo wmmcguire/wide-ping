@@ -9,6 +9,41 @@
 </br> Did this manually in this scenario, though should a similar situation occur, I would
 like to do this in a quicker fashion using PS.
 
-</br> This script takes a list of hosts in a given csv file and pings them. 
-</br> reference: https://www.opentechguides.com/how-to/article/powershell/131/ping-list-of-ips.html
+</br> This script takes a list of hosts in a given single-line .csv file and pings them.
+</br> <b>Reference</b>: https://www.opentechguides.com/how-to/article/powershell/131/ping-list-of-ips.html
+</br><b>To run: .\wideping.ps1 c:\path\to\csvfile.csv (example file provided)
+ 
+<p>
+ <table style="width:100%">
+   <tr>
+    <th>IP Address</th>
+   </tr>
+   <tr>
+    <td>youtube.com</td>
+    <td>facebook.com</td>
+    <td>98.76.54.32</td>
+    <td>8.8.4.4</td>
+    <td>8.8.8.8</td>
+    <td>192.168.1.1</td>
+    <td>192.168.1.10</td>
+    <td>123.45.67.89</td>
+    <td>10.8.0.1</td>
+    <td>10.10.10.10</td>
+  </tr>
+</table>
+</img src="https://hosting.photobucket.com/images/i/trillz3/psdemo.PNG?width=1920&height=1080&fit=bounds">
+</p>
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+ 
 
