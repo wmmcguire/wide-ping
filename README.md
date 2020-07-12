@@ -19,34 +19,34 @@ like to do this in a quicker fashion using PS.
     <th>IP Address</th>
    </tr>
    <tr>
-    <th>youtube.com</th>
+    <td>youtube.com</th>
    </tr>
    <tr>
-    <th>facebook.com</th>
+    <td>facebook.com</th>
    </tr>
    <tr>
-    <th>98.76.54.32</th>
+    <td>98.76.54.32</th>
    </tr>
    <tr>
-    <th>8.8.4.4</th>
+    <td>8.8.4.4</th>
    </tr>
    <tr>
-    <th>8.8.8.8</th>
+    <td>8.8.8.8</th>
    </tr>
    <tr>
-    <th>192.168.1.1</th>
+    <td>192.168.1.1</th>
    </tr>
    <tr>
-    <th>192.168.1.10</th>
+    <td>192.168.1.10</th>
    </tr>
    <tr>
-    <th>123.45.67.89</th>
+    <td>123.45.67.89</th>
    </tr>
    <tr>
-    <th>10.8.0.1</th>
+    <td>10.8.0.1</th>
    </tr>
    <tr>
-    <th>10.10.10.10</th>
+    <td>10.10.10.10</th>
    </tr>
 
 </table>
