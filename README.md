@@ -19,19 +19,19 @@ like to do this in a quicker fashion using PS.
     <th>IP Address</th>
    </tr>
    <tr>
-    <td>youtube.com</td>
-    <td>facebook.com</td>
-    <td>98.76.54.32</td>
-    <td>8.8.4.4</td>
-    <td>8.8.8.8</td>
-    <td>192.168.1.1</td>
-    <td>192.168.1.10</td>
-    <td>123.45.67.89</td>
-    <td>10.8.0.1</td>
-    <td>10.10.10.10</td>
+    <tr>youtube.com</tr>
+    <tr>facebook.com</tr>
+    <tr>98.76.54.32</tr>
+    <tr>8.8.4.4</tr>
+    <tr>8.8.8.8</tr>
+    <tr>192.168.1.1</tr>
+    <tr>192.168.1.10</tr>
+    <tr>123.45.67.89</tr>
+    <tr>10.8.0.1</tr>
+    <tr>10.10.10.10</tr>
   </tr>
 </table>
-</img src="https://hosting.photobucket.com/images/i/trillz3/psdemo.PNG?width=1920&height=1080&fit=bounds">
+<img src="https://hosting.photobucket.com/images/i/trillz3/psdemo.PNG?width=1920&height=1080&fit=bounds"></img>
 </p>
  
  
