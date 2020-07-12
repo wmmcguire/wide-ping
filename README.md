@@ -20,16 +20,35 @@ like to do this in a quicker fashion using PS.
    </tr>
    <tr>
     <th>youtube.com</th>
+   </tr>
+   <tr>
     <th>facebook.com</th>
+   </tr>
+   <tr>
     <th>98.76.54.32</th>
+   </tr>
+   <tr>
     <th>8.8.4.4</th>
+   </tr>
+   <tr>
     <th>8.8.8.8</th>
+   </tr>
+   <tr>
     <th>192.168.1.1</th>
+   </tr>
+   <tr>
     <th>192.168.1.10</th>
+   </tr>
+   <tr>
     <th>123.45.67.89</th>
+   </tr>
+   <tr>
     <th>10.8.0.1</th>
+   </tr>
+   <tr>
     <th>10.10.10.10</th>
-  </tr>
+   </tr>
+
 </table>
 <img src="https://hosting.photobucket.com/images/i/trillz3/psdemo.PNG?width=1920&height=1080&fit=bounds"></img>
 </p>
