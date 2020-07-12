@@ -50,7 +50,7 @@ like to do this in a quicker fashion using PS.
    </tr>
 
 </table>
-<img src="https://hosting.photobucket.com/images/i/trillz3/psdemo.PNG?width=1920&height=1080&fit=bounds"></img>
+<img src="https://raw.githubusercontent.com/wmmcguire/wide-ping/master/psdemo.PNG"></img>
 </p>
  
  
