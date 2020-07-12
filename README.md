@@ -19,16 +19,16 @@ like to do this in a quicker fashion using PS.
     <th>IP Address</th>
    </tr>
    <tr>
-    <tr>youtube.com</tr>
-    <tr>facebook.com</tr>
-    <tr>98.76.54.32</tr>
-    <tr>8.8.4.4</tr>
-    <tr>8.8.8.8</tr>
-    <tr>192.168.1.1</tr>
-    <tr>192.168.1.10</tr>
-    <tr>123.45.67.89</tr>
-    <tr>10.8.0.1</tr>
-    <tr>10.10.10.10</tr>
+    <th>youtube.com</th>
+    <th>facebook.com</th>
+    <th>98.76.54.32</th>
+    <th>8.8.4.4</th>
+    <th>8.8.8.8</th>
+    <th>192.168.1.1</th>
+    <th>192.168.1.10</th>
+    <th>123.45.67.89</th>
+    <th>10.8.0.1</th>
+    <th>10.10.10.10</th>
   </tr>
 </table>
 <img src="https://hosting.photobucket.com/images/i/trillz3/psdemo.PNG?width=1920&height=1080&fit=bounds"></img>
